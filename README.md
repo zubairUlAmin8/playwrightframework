@@ -74,11 +74,7 @@ Install the dependencies and devDependencies to run the test.
 
 Clone the repository
 
-```bash
-git clone https://github.com/JayKishoreDuvvuri/Playwright-JavaScript.git
-```
-
-Install dependencies
+tall dependencies
 
 ```bash
 npm install

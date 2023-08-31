@@ -34,7 +34,7 @@
     "Test Automation",
     "JavaScript"
   ],
-  "author": "Jay Kishore Duvvuri",
+  "author": "Zubair Ul Amin",
   "license": "ISC",
   "dependencies": {
     "@playwright/test": "^1.36.2",
